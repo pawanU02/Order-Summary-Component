@@ -1,0 +1,16 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore JetBrains IDE (e.g., IntelliJ, PhpStorm, WebStorm) project files
+.idea
+
+# Ignore design tool files
+*.sketch
+*.fig
+
+# Ignore documentation and image files
+README.md
+README-template.md
+style-guide.md
+pattern-background-mobile.svg
+mobile-design.jpg
